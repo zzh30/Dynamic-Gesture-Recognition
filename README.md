@@ -1,1 +1,3 @@
-# Dynamic-Gesture-Recognition
+# 动态手势识别
+## 主要方法
+使用mediapipe提取21个手部骨架点信息作为输入，使用STGCN++进行动态手势识别模型的训练。
