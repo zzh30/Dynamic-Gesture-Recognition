@@ -13,10 +13,10 @@ Use MediaPipe to extract 21 hand skeleton points as input, and train a dynamic g
 ![image](https://github.com/user-attachments/assets/ee3fff9c-5b7b-4651-8b7d-83731c771574)
 
 ## Use MediaPipe to extract 21 hand skeleton points.
-Use [extract-key.py]() to extract keypoint information from videos and save it as a `.pkl` file.
+Use [extract-key.py](https://github.com/zzh30/Dynamic-Gesture-Recognition/blob/main/demo/inference.py) to extract keypoint information from videos and save it as a `.pkl` file.
 ## Train a model 
-Use STGCN++ to [train]() the gesture recognition model.
+Use STGCN++ to [train](https://github.com/zzh30/Dynamic-Gesture-Recognition/tree/main/train) the gesture recognition model.
 ## demo
-Use the [demo.py]() to access the camera and perform real-time gesture recognition. The results are as follows:
+Use the [inference.py](https://github.com/zzh30/Dynamic-Gesture-Recognition/blob/main/demo/inference.py) to access the camera and perform real-time gesture recognition. The results are as follows:
 https://github.com/user-attachments/assets/f7f5db96-e3f9-4b5f-8b03-d5ad70c9f6e1
 
