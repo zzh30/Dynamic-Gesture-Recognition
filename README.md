@@ -17,4 +17,5 @@ Use MediaPipe to extract 21 hand skeleton points as input, and train a dynamic g
 ## Train a dynamic gesture recognition model using STGCN++.
 
 ## demo
+https://github.com/user-attachments/assets/f7f5db96-e3f9-4b5f-8b03-d5ad70c9f6e1
 
