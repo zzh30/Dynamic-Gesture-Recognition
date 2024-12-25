@@ -48,5 +48,5 @@ python extract_keypoints.py ./dataset ./output_keypoints.pkl
 Use STGCN++ to [train](https://github.com/zzh30/Dynamic-Gesture-Recognition/tree/main/train) the gesture recognition model.
 ## Demo
 Use the [inference.py](https://github.com/zzh30/Dynamic-Gesture-Recognition/blob/main/demo/inference.py) to access the camera and perform real-time gesture recognition. The results are as follows:
-https://github.com/user-attachments/assets/f7f5db96-e3f9-4b5f-8b03-d5ad70c9f6e1
+![demo](https://github.com/user-attachments/assets/5c36afba-6767-452b-b34f-e2a346b7faf1)
 
