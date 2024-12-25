@@ -5,6 +5,8 @@ The training process is improved based on the model files from MMAction2. First,
 `$MMAction`/mmaction/models/utils/graph.py  
 `$MMAction`/mmaction/datasets/transforms/pose_transforms.py
 
+Some configuration file paths need to be modified manually.  
+
 Train using the following method.
 ```bash
 bash tools/dist_train.sh $MMAction/projects/gesture_recognition/configs/stgcnpp_8xb16-joint-u100-16e_jester-keypoint-2d.py 4
